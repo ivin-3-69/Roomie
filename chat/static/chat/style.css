@@ -36,3 +36,10 @@
     margin: auto;
     margin-top: 10px;
 }
+
+#header {
+    color: aqua;
+    position: relative;
+    left: 80px;
+    top: 2px;
+}
